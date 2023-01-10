@@ -7,7 +7,16 @@ Biyoinformatik Nedir?
 
 
 • Günümüzde çoğu biyolojik araştırma, elde edilen ham verilerin düzenlenmesin ,tanlamlandırılmasını ve farklı tipteki bilgilerin toplanmasınısağlayan matematik, istatistik ve bilgi teknolojilerine dayalı araçların kullanımını gerektirir.
+
+
+
+
+
 • Hesaplamalı biyoloji, bilgisayar yardımlı analizleri modellemeleri ve tahminlemeleri kullanan tüm biyoloji alt disiplinleri kapsayan bir üst terim olarak tanımlanırken, biyoinformatik ise onun parçası olarak kabul edilmektedir.
+
+
+
+
 Tisdall (2001), biyolojik verilerin analizinde ve yönteminde hesaplamalı araçların ve tekniklerin
 uygulanması.
 Luscombe, Greenbaum, Gerstein (2001), biyo-moleküllerle ilgili bilgiyi anlamak ve organize
